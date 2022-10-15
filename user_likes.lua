@@ -1,6 +1,6 @@
 local menubar = require "menubar"
 
-terminal = "st"
+terminal = "alacritty"
 explorer = "thunar"
 browser = "firefox"
 launcher = "rofi -show drun"
